@@ -8,8 +8,7 @@
   - Numerical Optimization
   - Parallel Algorithms
     
-- 
-- I’m looking to collaborate with people with similar interests, someone I can work and learn with.
+- Always happy to collaborate with people with similar interests, someone I can work and learn with.
 <!---
 % - 📫 How to reach me: rafayalvi17@protonmail.com
 raylv17/raylv17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
