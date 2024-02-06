@@ -5,7 +5,7 @@
   - Creating Simulations (Complex Systems, Fire Dynamics, Complex Adaptive Systems, Multi-Agent Systems)
   - Robotics Simulations (Trajectory Planning, Controls)
   - Educational Content Writing (LaTeX/TikZ)
-  - Numerical Optimization
+  - Numerical Methods and Optimization
   - Parallel Algorithms
     
 - Always happy to collaborate with people with similar interests.
