@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @raylv17
-- I create **stuff** in LaTeX/TikZ and Python.
+- I create **stuff** in LaTeX/TikZ, Python and C++.
 
 - Interests
   - Creating Simulations (Complex Systems, Fire Dynamics, Complex Adaptive Systems, Multi-Agent Systems)
