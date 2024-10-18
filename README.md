@@ -2,7 +2,7 @@
 - I create **stuff** in LaTeX/TikZ, Python and C++.
 
 - Interests
-  - Creating Simulations (Complex Systems, Fire Dynamics, Complex Adaptive Systems, Multi-Agent Systems)
+  - Creating Simulations (Complex Systems, Fire Dynamics, Multi-Agent Systems, Collective Behaviour)
   - Robotics Simulations (Trajectory Planning, Controls)
   - Educational Content Writing (LaTeX/TikZ)
   - Numerical Methods and Optimization
